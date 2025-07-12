@@ -99,7 +99,7 @@ struct Index {
         .fontSize(10)
         .margin({ bottom: 0, top: 30 })
 
-      Text('熊仔, https://www.cseek.github.io')
+      Text('🐻, https://github.com/cseek/BaseConverter')
         .height('7%')
         .fontSize(13)
         .margin({ bottom: 3, top: 0})
